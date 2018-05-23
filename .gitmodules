@@ -1,0 +1,3 @@
+[submodule "swift-models"]
+	path = swift-models
+	url = https://github.com/tensorflow/swift-models.git
